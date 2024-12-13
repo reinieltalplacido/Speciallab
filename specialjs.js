@@ -1,0 +1,3 @@
+function showMessage() {
+    window.alert('I am incredibly grateful to have had you as our ITWS teacher. Your guidance and support have been invaluable, and it is thanks to your teaching that I was able to accomplish this lab and improve my skills in HTML, CSS, and JavaScript. Thank you for inspiring us to grow and succeed! Thank you for guiding us and teaching the right way to develop and learn. I will miss our class maam roan! See you around po!.');
+}
